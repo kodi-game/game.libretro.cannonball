@@ -2,7 +2,7 @@
 <addon id="game.libretro.cannonball"
 		name="Cannonball"
 		version="0.0.1.2"
-		provider-name="Libretro">
+		provider-name="Chris White">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
