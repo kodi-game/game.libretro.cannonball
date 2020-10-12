@@ -1,1 +1,1 @@
-cannonball https://github.com/libretro/cannonball/archive/5dcef189dc5c408bbd9e4bc08b1f9801b04cd3ca.zip
+cannonball https://github.com/libretro/cannonball/archive/a40c3a0b2f656ab6b9913351dd89b2eb66977f6f.zip
