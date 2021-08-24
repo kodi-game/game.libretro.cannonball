@@ -16,6 +16,16 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgctxt "Addon Summary"
+msgid "Cannonball git"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Cannonball is an OutRun game engine recreation written by Chris White in 2014.
+
+Supported files: .game"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
