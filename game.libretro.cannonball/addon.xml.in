@@ -14,14 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .game</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.cannonball</source>
 		<summary lang="en_GB">Cannonball git</summary>
-		<description lang="en_GB">Cannonball is an OutRun game engine recreation written by Chris White in 2014.
-
-Supported files: .game</description>
+		<description lang="en_GB">Cannonball is an OutRun game engine recreation written by Chris White in 2014.[CR][CR]Supported files: .game</description>
 	</extension>
 </addon>
