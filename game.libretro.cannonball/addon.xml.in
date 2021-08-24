@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.cannonball</source>
 		<summary lang="en_GB">Cannonball git</summary>
-		<description lang="en_GB">Cannonball is an OutRun game engine recreation written by Chris White in 2014.</description>
+		<description lang="en_GB">Cannonball is an OutRun game engine recreation written by Chris White in 2014.[CR][CR]Supported files: .game</description>
 	</extension>
 </addon>
