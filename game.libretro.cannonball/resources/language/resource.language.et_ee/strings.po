@@ -21,7 +21,7 @@ msgid "Cannonball git"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Cannonball is an OutRun game engine recreation written by Chris White in 2014.[CR][CR]Supported files: .game"
+msgid "Cannonball is an OutRun game engine recreation written by Chris White in 2014."
 msgstr ""
 
 msgctxt "#30000"
