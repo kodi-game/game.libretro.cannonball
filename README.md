@@ -4,9 +4,21 @@
 # Cannonball
 
 ### Description
+
 Cannonball is an OutRun game engine recreation written by Chris White in 2014.
 
 ### License
+
 Non-commercial
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
