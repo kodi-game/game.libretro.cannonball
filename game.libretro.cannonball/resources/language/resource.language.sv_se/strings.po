@@ -30,109 +30,117 @@ msgid "Settings"
 msgstr "Inställningar"
 
 msgctxt "#30001"
-msgid "Menu At Start"
+msgid "Menu > Show at Start"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Menu Road Scroll Speed"
+msgid "Menu > Road Scroll Speed"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Video Widescreen Mode"
+msgid "Video > Frame Rate"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Video High-Resolution Mode"
+msgid "Video > Widescreen Mode"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Video Framerate"
+msgid "Video > High-Resolution Mode"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Advertise Sound"
+msgid "Audio > Enable"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Preview Music"
+msgid "Audio > Advertise Sound (Restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Fix Samples (use opr-10188.71f)"
+msgid "Audio > Preview Music (Restart)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Gear Mode"
+msgid "Audio > Fix Samples (Restart)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Analog Controls (off to allow digital speed setup)"
+msgid "Input > Gear Mode"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Digital Steer Speed"
+msgid "Input > Analog Controls"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Digital Pedal Speed"
+msgid "Input > Digital Steer Speed (Restart)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Time"
+msgid "Input > Digital Pedal Speed (Restart)"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Traffic"
+msgid "Input > Haptic Feedback Strength"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Freeplay Mode"
+msgid "Engine > Use Japanese Tracks (Restart)"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Use Japanese Tracks Version"
+msgid "Engine > Freeplay Mode"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Use Prototype Stage 1"
+msgid "Engine > Force AI to Play"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Objects Limit Enhanced"
+msgid "Engine > Time Limit (Restart)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Original Traffic Patterns Randomization"
+msgid "Engine > Traffic Difficulty (Restart)"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Force AI To Play"
+msgid "Engine > Extra Level Objects (Restart)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Fix Original Game Bugs"
+msgid "Engine > Use Prototype Stage 1 (Restart)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Fix Timing Bugs"
+msgid "Engine > New Attract Mode (Restart)"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Display Debug Info For LayOut"
+msgid "Engine > Randomize Traffic Patterns (Restart)"
 msgstr ""
 
 msgctxt "#30024"
-msgid "New Attract"
+msgid "Engine > Fix Game Bugs (Restart)"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Time Trial Laps"
+msgid "Engine > Fix Timing Bugs (Restart)"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Time Trial Traffic Amount"
+msgid "Engine > Time Trial Laps (Restart)"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Continuous Mode Traffic Amount"
+msgid "Engine > Time Trial Traffic Level (Restart)"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Engine > Continuous Mode Traffic Level (Restart)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Engine > Display Debug Info (Restart)"
 msgstr ""
