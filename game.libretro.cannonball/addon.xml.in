@@ -21,5 +21,6 @@
 		<summary lang="en_GB">Cannonball git</summary>
 		<description lang="da_DK">Cannonball er en OutRun game engine rekreation skrevet af Chris White i 2014.</description>
 		<description lang="en_GB">Cannonball is an OutRun game engine recreation written by Chris White in 2014.</description>
+		<description lang="zh_CN">《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游戏引擎的娱乐作品。</description>
 	</extension>
 </addon>
