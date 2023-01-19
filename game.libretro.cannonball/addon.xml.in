@@ -22,8 +22,8 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Cannonball git</summary>
-		<description lang="da_DK">[CR]Cannonball er en OutRun game engine rekreation skrevet af Chris White i 2014.</description>
+		<description lang="da_DK">Cannonball er en OutRun game engine rekreation skrevet af Chris White i 2014.</description>
 		<description lang="en_GB">Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki.</description>
-		<description lang="zh_CN">[CR]《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游[CR]戏引擎的娱乐作品。</description>
+		<description lang="zh_CN">加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游[CR]戏引擎的娱乐作品。</description>
 	</extension>
 </addon>
