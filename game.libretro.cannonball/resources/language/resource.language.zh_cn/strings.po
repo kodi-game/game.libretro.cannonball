@@ -22,7 +22,7 @@ msgid "Cannonball git"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Cannonball is an OutRun game engine recreation written by Chris White in 2014."
+msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki."
 msgstr "《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游戏引擎的娱乐作品。"
 
 msgctxt "#30000"
