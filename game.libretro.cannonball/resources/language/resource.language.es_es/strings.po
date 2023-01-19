@@ -23,9 +23,7 @@ msgid "Cannonball git"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
-"Cannonball is an enhanced version of the seminal arcade racer OutRun "
-"designed by Yu Suzuki."
+msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki."
 msgstr ""
 
 msgctxt "#30000"
