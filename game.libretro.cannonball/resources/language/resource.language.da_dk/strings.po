@@ -24,7 +24,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki."
-msgstr "[CR]Cannonball er en OutRun game engine rekreation skrevet af Chris White i 2014."
+msgstr "[CR]Cannonball er en OutRun game engine rekreation skrevet af Chris White i 2014.[CR][CR]Cannonball er en OutRun game engine rekreation skrevet af Chris White i 2014."
 
 "Cannonball er en OutRun game engine rekreation skrevet af Chris White i 2014."
 
