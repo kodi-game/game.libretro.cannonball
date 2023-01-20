@@ -5,7 +5,7 @@
 
 ### Description
 
-Cannonball is an OutRun game engine recreation written by Chris White in 2014.
+Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki.
 
 ### License
 
