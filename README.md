@@ -17,7 +17,7 @@ Non-commercial
 
 ### Fanart
 
-Help make me fanart!
+![Fanart](game.libretro.cannonball/resources/fanart.jpg)
 
 ### Screenshots
 
