@@ -24,7 +24,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki."
-msgstr "[CR]《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游[CR]戏引擎的娱乐作品。[CR][CR]《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游[CR]戏引擎的娱乐作品。"
+msgstr "[CR]《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游[CR]戏引擎的娱乐作品。[CR][CR]《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游[CR]戏引擎的娱乐作品。[CR][CR]《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游[CR]戏引擎的娱乐作品。"
 
 "《加农炮》（Cannonball）是克里斯·怀特（Chris White）在2014年创作的 OutRun 游"
 "戏引擎的娱乐作品。"
