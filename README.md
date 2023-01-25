@@ -13,11 +13,11 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.cannonball/resources/icon.png)
+![Cannonball icon](game.libretro.cannonball/resources/icon.png)
 
 ### Fanart
 
-![Fanart](game.libretro.cannonball/resources/fanart.jpg)
+![Cannonball fanart](game.libretro.cannonball/resources/fanart.jpg)
 
 ### Screenshots
 
