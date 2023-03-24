@@ -22,7 +22,7 @@
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
-		<summary lang="en_GB">Cannonball git</summary>
+		<summary lang="en_GB">Cannonball</summary>
 		<description lang="da_DK">Cannonball er en forbedret version af den banebrydende arkaderacer OutRun designet af Yu Suzuki.</description>
 		<description lang="de_DE">Cannonball ist eine verbesserte Version des Arcade-Autorennens OutRun, das von Yu Suzuki entwickelt wurde.</description>
 		<description lang="en_GB">Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki.</description>
