@@ -22,7 +22,7 @@ msgid "Cannonball"
 msgstr "加农炮"
 
 msgctxt "Addon Description"
-msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.[CR][CR]Note: See the file \"[I]roms needed.txt[/I]\""
+msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.[CR][CR]Note: OutRun Revision B files are needed. See the file [I]roms needed.txt[/I]."
 msgstr ""
 
 msgctxt "#30000"
