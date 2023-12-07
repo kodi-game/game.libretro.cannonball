@@ -4,7 +4,7 @@
 
 Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.
 
-Note: See the file "*roms needed.txt*"
+Note: OutRun Revision B files are needed. See the file *roms needed.txt*.
 
 ### License
 
