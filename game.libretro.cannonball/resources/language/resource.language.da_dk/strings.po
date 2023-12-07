@@ -22,8 +22,8 @@ msgid "Cannonball"
 msgstr "Cannonball"
 
 msgctxt "Addon Description"
-msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki."
-msgstr "Cannonball er en forbedret version af den banebrydende arkaderacer OutRun designet af Yu Suzuki."
+msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki.[CR][CR]Note: See the file \"[I]roms needed.txt[/I]\""
+msgstr ""
 
 msgctxt "#30000"
 msgid "Settings"
@@ -144,6 +144,10 @@ msgstr "Motor > Trafikniveau i kontinuerlig tilstand (genstart)"
 msgctxt "#30029"
 msgid "Engine > Display Debug Info (Restart)"
 msgstr "Motor > Vis fejlretningsinformation (genstart)"
+
+#~ msgctxt "Addon Description"
+#~ msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki."
+#~ msgstr "Cannonball er en forbedret version af den banebrydende arkaderacer OutRun designet af Yu Suzuki."
 
 #~ msgctxt "#30001"
 #~ msgid "Menu At Start"
