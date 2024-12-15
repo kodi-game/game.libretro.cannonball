@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.[CR][CR]Note: OutRun Revision B files are needed. See the file [I]roms needed.txt[/I]."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Настройки"
-
 msgctxt "#30001"
 msgid "Menu > Show at Start"
 msgstr ""
@@ -144,3 +140,7 @@ msgstr ""
 msgctxt "#30029"
 msgid "Engine > Display Debug Info (Restart)"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Настройки"
