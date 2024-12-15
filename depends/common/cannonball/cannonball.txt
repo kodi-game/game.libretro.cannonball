@@ -1,1 +1,1 @@
-cannonball https://github.com/libretro/cannonball/archive/fb2a341b9c17bab44941495fa5568f7f0f66f92a.tar.gz
+cannonball https://github.com/libretro/cannonball/archive/5137a791d229a5b9c7c089cf1edcce4db3c57d64.tar.gz
