@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.cannonball\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-01-30 03:30i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-cannonball/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "Cannonball är en förbättrad version av den banbrytande arkadracern Ou
 
 msgctxt "#30001"
 msgid "Menu > Show at Start"
-msgstr ""
+msgstr "Meny > Visa vid start"
 
 msgctxt "#30002"
 msgid "Menu > Road Scroll Speed"
