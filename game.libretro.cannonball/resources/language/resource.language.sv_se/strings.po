@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.cannonball\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-01-30 03:30i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-cannonball/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Cannonball"
@@ -29,17 +29,18 @@ msgctxt "#30001"
 msgid "Menu > Show at Start"
 msgstr "Meny > Visa vid start"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "Menu > Road Scroll Speed"
-msgstr ""
+msgstr "Meny > Rullningshastighet för väg"
 
 msgctxt "#30003"
 msgid "Video > Frame Rate"
-msgstr ""
+msgstr "Video > Bildfrekvens"
 
 msgctxt "#30004"
 msgid "Video > Widescreen Mode"
-msgstr ""
+msgstr "Video > Bredbildsläge"
 
 msgctxt "#30005"
 msgid "Video > High-Resolution Mode"
@@ -47,99 +48,106 @@ msgstr "Video > Högupplöst läge"
 
 msgctxt "#30006"
 msgid "Audio > Enable"
-msgstr ""
+msgstr "Ljud > Aktivera"
 
 msgctxt "#30007"
 msgid "Audio > Advertise Sound (Restart)"
-msgstr ""
+msgstr "Ljud > Annonsera ljud (omstart)"
 
 msgctxt "#30008"
 msgid "Audio > Preview Music (Restart)"
-msgstr ""
+msgstr "Ljud > Förhandsmusik (omstart)"
 
 msgctxt "#30009"
 msgid "Audio > Fix Samples (Restart)"
-msgstr ""
+msgstr "Ljud > Fixa samplingar (omstart)"
 
 msgctxt "#30010"
 msgid "Input > Gear Mode"
-msgstr ""
+msgstr "Inmatning > Växelläge"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Input > Analog Controls"
-msgstr ""
+msgstr "Ingång > Analoga kontroller"
 
 msgctxt "#30012"
 msgid "Input > Digital Steer Speed (Restart)"
-msgstr ""
+msgstr "Inmatning > Digital styrhastighet (omstart)"
 
 msgctxt "#30013"
 msgid "Input > Digital Pedal Speed (Restart)"
-msgstr ""
+msgstr "Inmatning > Digital pedalhastighet (omstart)"
 
 msgctxt "#30014"
 msgid "Input > Haptic Feedback Strength"
-msgstr ""
+msgstr "Inmatning > Styrka för haptisk återkoppling"
 
 msgctxt "#30015"
 msgid "Engine > Use Japanese Tracks (Restart)"
-msgstr ""
+msgstr "Motor > Använd japanska spår (omstart)"
 
 msgctxt "#30016"
 msgid "Engine > Freeplay Mode"
-msgstr ""
+msgstr "Motor > Freeplay-läge"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Engine > Force AI to Play"
-msgstr ""
+msgstr "Engine > Tvinga AI att spela"
 
 msgctxt "#30018"
 msgid "Engine > Time Limit (Restart)"
-msgstr ""
+msgstr "Motor > Tidsgräns (omstart)"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Engine > Traffic Difficulty (Restart)"
-msgstr ""
+msgstr "Engine > Trafiksvårigheter (omstart)"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Engine > Extra Level Objects (Restart)"
-msgstr ""
+msgstr "Motor > Objekt på extra nivå (omstart)"
 
 msgctxt "#30021"
 msgid "Engine > Use Prototype Stage 1 (Restart)"
-msgstr ""
+msgstr "Motor > Använd prototyp steg 1 (omstart)"
 
+#, fuzzy
 msgctxt "#30022"
 msgid "Engine > New Attract Mode (Restart)"
-msgstr ""
+msgstr "Motor > New Attract Mode (Omstart)"
 
 msgctxt "#30023"
 msgid "Engine > Randomize Traffic Patterns (Restart)"
-msgstr ""
+msgstr "Motor > Slumpmässiga trafikmönster (omstart)"
 
 msgctxt "#30024"
 msgid "Engine > Fix Game Bugs (Restart)"
-msgstr ""
+msgstr "Motor > Åtgärda spelbuggar (omstart)"
 
 msgctxt "#30025"
 msgid "Engine > Fix Timing Bugs (Restart)"
-msgstr ""
+msgstr "Motor > Åtgärda timingfel (omstart)"
 
 msgctxt "#30026"
 msgid "Engine > Time Trial Laps (Restart)"
-msgstr ""
+msgstr "Motor > Träna på tidskörning (omstart)"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Engine > Time Trial Traffic Level (Restart)"
-msgstr ""
+msgstr "Motor > Time Trial Trafiknivå (omstart)"
 
+#, fuzzy
 msgctxt "#30028"
 msgid "Engine > Continuous Mode Traffic Level (Restart)"
-msgstr ""
+msgstr "Motor > Kontinuerligt läge Trafiknivå (omstart)"
 
 msgctxt "#30029"
 msgid "Engine > Display Debug Info (Restart)"
-msgstr ""
+msgstr "Motor > Visa felsökningsinformation (omstart)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
