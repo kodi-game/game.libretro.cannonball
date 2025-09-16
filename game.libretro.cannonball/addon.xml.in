@@ -25,10 +25,12 @@
 		<summary lang="da_DK">Cannonball</summary>
 		<summary lang="en_GB">Cannonball</summary>
 		<summary lang="es_ES">Cannonball</summary>
+		<summary lang="ga">Cannonball</summary>
 		<summary lang="sv_SE">Cannonball</summary>
 		<summary lang="zh_CN">加农炮</summary>
 		<description lang="en_GB">Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.[CR][CR]Note: OutRun Revision B files are needed. See the file [I]roms needed.txt[/I].</description>
 		<description lang="es_ES">Cannonball es una versión mejorada del mítico arcade de carreras OutRun, diseñado por Yu Suzuki en 1986.[CR][CR]Nota: Se necesitan los archivos de la Revisión B de OutRun. Ver el archivo [I]roms needed.txt[/I].</description>
+		<description lang="ga">Is leagan feabhsaithe den rásaíocht stuara ceannródaíoch OutRun, arna dhearadh ag Yu Suzuki i 1986, é Cannonball.[CR][CR]Nóta: Tá comhaid OutRun Leagan B ag teastáil. Féach an comhad [I]roms needed.txt[/I].</description>
 		<description lang="sv_SE">Cannonball är en förbättrad version av den banbrytande arkadracern OutRun som designades av Yu Suzuki 1986.[CR][CR]Notera: OutRun Revision B-filer behövs. Se filen [I]roms needed.txt[/I].</description>
 		<description lang="zh_CN">Cannonball 是铃木裕（Yu Suzuki）于 1986 年设计的开创性街机赛车游戏《OutRun》的增强版。[CR][CR]注：需要《OutRun》B 版文件。请参阅文件 [I]roms needed.txt[/I]。</description>
 	</extension>
