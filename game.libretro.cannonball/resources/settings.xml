@@ -7,6 +7,7 @@
 		<setting label="30004" type="select" id="cannonball_video_widescreen" values="ON|OFF" default="ON"/>
 		<setting label="30005" type="select" id="cannonball_video_hires" values="OFF|ON" default="OFF"/>
 		<setting label="30006" type="select" id="cannonball_sound_enable" values="ON|OFF" default="ON"/>
+		<setting label="30030" type="select" id="cannonball_sound_custom_wav_volume" values="200|0|10|20|30|40|50|60|70|80|90|100|110|120|130|140|150|160|170|180|190" default="200"/>
 		<setting label="30007" type="select" id="cannonball_sound_advertise" values="ON|OFF" default="ON"/>
 		<setting label="30008" type="select" id="cannonball_sound_preview" values="ON|OFF" default="ON"/>
 		<setting label="30009" type="select" id="cannonball_sound_fix_samples" values="ON|OFF" default="ON"/>
@@ -18,6 +19,11 @@
 		<setting label="30015" type="select" id="cannonball_jap" values="OFF|ON" default="OFF"/>
 		<setting label="30016" type="select" id="cannonball_freeplay" values="OFF|ON" default="OFF"/>
 		<setting label="30017" type="select" id="cannonball_force_ai" values="OFF|ON" default="OFF"/>
+		<setting label="30031" type="select" id="cannonball_grippy_tyres" values="OFF|ON" default="OFF"/>
+		<setting label="30032" type="select" id="cannonball_offroad_tyres" values="OFF|ON" default="OFF"/>
+		<setting label="30033" type="select" id="cannonball_strong_bumper" values="OFF|ON" default="OFF"/>
+		<setting label="30034" type="select" id="cannonball_faster_car" values="OFF|ON" default="OFF"/>
+		<setting label="30035" type="select" id="cannonball_car_color" values="RED|BLUE|YELLOW|GREEN|CYAN|BLACK|WHITE" default="RED"/>
 		<setting label="30018" type="select" id="cannonball_dip_time" values="Easy (80s)|Normal (75s)|Hard (72s)|Very Hard (70s)|Infinite Time" default="Easy (80s)"/>
 		<setting label="30019" type="select" id="cannonball_dip_traffic" values="Normal|Easy|Hard|Very Hard|No Traffic" default="Normal"/>
 		<setting label="30020" type="select" id="cannonball_level_objects" values="ON|OFF" default="ON"/>

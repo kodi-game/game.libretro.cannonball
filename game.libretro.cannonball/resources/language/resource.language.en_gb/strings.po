@@ -141,3 +141,27 @@ msgstr ""
 msgctxt "#30029"
 msgid "Engine > Display Debug Info (Restart)"
 msgstr ""
+
+msgctxt "#30030"
+msgid "Audio > Custom WAV Volume"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Engine > Grippy Tyres"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Engine > Offroad Tyres"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Engine > Strong Bumper"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Engine > Faster Car"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Engine > Car Color"
+msgstr ""
