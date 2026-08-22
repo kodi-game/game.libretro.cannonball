@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.cannonball\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-01-30 03:30i\n"
-"PO-Revision-Date: 2026-07-06 08:12+0000\n"
+"PO-Revision-Date: 2026-08-22 16:03+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-cannonball/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "Addon Summary"
 msgid "Cannonball"
@@ -143,24 +143,288 @@ msgstr "Herní engine > zobrazit ladicí informace (vyžaduje restart)"
 
 msgctxt "#30030"
 msgid "Audio > Custom WAV Volume"
-msgstr ""
+msgstr "Zvuk > Hlasitost vlastního souboru WAV"
 
 msgctxt "#30031"
 msgid "Engine > Grippy Tyres"
-msgstr ""
+msgstr "Herní engine > Přilnavé pneumatiky"
 
 msgctxt "#30032"
 msgid "Engine > Offroad Tyres"
-msgstr ""
+msgstr "Herní engine > Terénní pneumatiky"
 
 msgctxt "#30033"
 msgid "Engine > Strong Bumper"
-msgstr ""
+msgstr "Herní engine > Pevný nárazník"
 
 msgctxt "#30034"
 msgid "Engine > Faster Car"
-msgstr ""
+msgstr "Herní engine > Rychlejší vůz"
 
 msgctxt "#30035"
 msgid "Engine > Car Color"
-msgstr ""
+msgstr "Herní engine > Barva vozu"
+
+msgctxt "#30036"
+msgid "Game Menu"
+msgstr "Herní nabídka"
+
+msgctxt "#30037"
+msgid "Configure the in-game menu."
+msgstr "Konfigurovat nabídku ve hře."
+
+msgctxt "#30038"
+msgid "Display main menu when launching the core. When disabled, core will boot directly into attract mode."
+msgstr "Zobrazit hlavní nabídku při spuštění jádra. Když je zakázána, jádro se spustí přímo v režimu attract."
+
+msgctxt "#30039"
+msgid "Set speed of the scrolling road animation shown behind the main menu."
+msgstr "Nastavit rychlost animace posouvající se silnice zobrazené za hlavní nabídkou."
+
+msgctxt "#30040"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30041"
+msgid "Configure frame rate, widescreen and resolution settings."
+msgstr "Konfigurovat nastavení snímkové frekvence, širokoúhlého režimu a rozlišení."
+
+msgctxt "#30042"
+msgid "Set internal frame rate. In 'Original' mode, game logic, road scrolling and sprite zooming update at 30fps, but the horizon scrolls at 60fps."
+msgstr "Nastavit interní snímkovou frekvenci. V režimu „Original“ se herní logika, posouvání silnice a přibližování spritů aktualizují při 30 fps, ale horizont se posouvá při 60 fps."
+
+msgctxt "#30043"
+msgid "Extend the play area to a widescreen aspect. Base internal resolution is set to 398x224, increasing the screen width by 25%."
+msgstr "Rozšířit hrací plochu na širokoúhlý poměr stran. Základní interní rozlišení se nastaví na 398x224, čímž se šířka obrazovky zvětší o 25 %."
+
+msgctxt "#30044"
+msgid "Double the game's internal resolution from the original 320x224 to 640x448 (768x448 in widescreen mode). Increases the fidelity of rendered sprites and the road."
+msgstr "Zdvojnásobit interní rozlišení hry z původních 320x224 na 640x448 (768x448 v širokoúhlém režimu). Zvýší věrnost vykreslených spritů a silnice."
+
+msgctxt "#30045"
+msgid "Audio"
+msgstr "Zvuk"
+
+msgctxt "#30046"
+msgid "Configure sound and music settings."
+msgstr "Konfigurovat nastavení zvuku a hudby."
+
+msgctxt "#30047"
+msgid "Allow playback of music and sound effects."
+msgstr "Povolit přehrávání hudby a zvukových efektů."
+
+msgctxt "#30048"
+msgid "Set playback volume of custom WAV music tracks. Does not affect original arcade music or external BIN music. 50% matches the historical SDL attenuation; values above 100% may clip when mixed with sound effects."
+msgstr "Nastavit hlasitost vlastních hudebních skladeb WAV. Nemá vliv na původní arkádovou hudbu ani externí hudbu BIN. 50 % odpovídá historickému útlumu SDL; hodnoty nad 100 % mohou při smíchání se zvukovými efekty způsobit ořezávání."
+
+msgctxt "#30049"
+msgid "0%"
+msgstr "0 %"
+
+msgctxt "#30050"
+msgid "10%"
+msgstr "10 %"
+
+msgctxt "#30051"
+msgid "20%"
+msgstr "20 %"
+
+msgctxt "#30052"
+msgid "30%"
+msgstr "30 %"
+
+msgctxt "#30053"
+msgid "40%"
+msgstr "40 %"
+
+msgctxt "#30054"
+msgid "50%"
+msgstr "50 %"
+
+msgctxt "#30055"
+msgid "60%"
+msgstr "60 %"
+
+msgctxt "#30056"
+msgid "70%"
+msgstr "70 %"
+
+msgctxt "#30057"
+msgid "80%"
+msgstr "80 %"
+
+msgctxt "#30058"
+msgid "90%"
+msgstr "90 %"
+
+msgctxt "#30059"
+msgid "100%"
+msgstr "100 %"
+
+msgctxt "#30060"
+msgid "110%"
+msgstr "110 %"
+
+msgctxt "#30061"
+msgid "120%"
+msgstr "120 %"
+
+msgctxt "#30062"
+msgid "130%"
+msgstr "130 %"
+
+msgctxt "#30063"
+msgid "140%"
+msgstr "140 %"
+
+msgctxt "#30064"
+msgid "150%"
+msgstr "150 %"
+
+msgctxt "#30065"
+msgid "160%"
+msgstr "160 %"
+
+msgctxt "#30066"
+msgid "170%"
+msgstr "170 %"
+
+msgctxt "#30067"
+msgid "180%"
+msgstr "180 %"
+
+msgctxt "#30068"
+msgid "190%"
+msgstr "190 %"
+
+msgctxt "#30069"
+msgid "200%"
+msgstr "200 %"
+
+msgctxt "#30070"
+msgid "Enable audio while core is in attract mode."
+msgstr "Povolit zvuk, když je jádro v režimu attract."
+
+msgctxt "#30071"
+msgid "Play music tracks in the pre-race song selection screen. In the original game, playback of the selected track would not start until the race began."
+msgstr "Přehrávat hudební skladby na obrazovce výběru skladby před závodem. V původní hře se přehrávání vybrané skladby nespustilo, dokud závod nezačal."
+
+msgctxt "#30072"
+msgid "Replace distorted audio samples present in the original game (caused by corrupt ROM data) with corrected versions. Requires the patched audio ROM 'opr-10188.71f' in the game content directory."
+msgstr "Nahradit zkreslené zvukové vzorky v původní hře (způsobené poškozenými daty ROM) opravenými verzemi. Vyžaduje opravenou zvukovou ROM „opr-10188.71f“ v adresáři s obsahem hry."
+
+msgctxt "#30073"
+msgid "Input"
+msgstr "Vstup"
+
+msgctxt "#30074"
+msgid "Configure gear shift behaviour, analog input and haptic feedback settings."
+msgstr "Konfigurovat nastavení řazení, analogového vstupu a haptické odezvy."
+
+msgctxt "#30075"
+msgid "Set gear shift behaviour. 'Manual': press Gear button to toggle low/high. 'Manual Cabinet': hold Gear button to shift low (high by default). 'Manual 2 Buttons': separate Gear buttons for low/high. 'Automatic': no gear shift required."
+msgstr "Nastavit chování řazení. „Manual“: stisknutím tlačítka řazení přepínat nízký/vysoký převod. „Manual Cabinet“: podržením tlačítka řazení zařadit nízký převod (ve výchozím nastavení vysoký). „Manual 2 Buttons“: samostatná tlačítka řazení pro nízký/vysoký převod. „Automatic“: řazení není nutné."
+
+msgctxt "#30076"
+msgid "Enable analog steering, acceleration and breaking via the left stick and triggers of an analog gamepad (with D-Pad, 'Accelerate' and 'Brake' buttons producing a purely digital response). When disabled, analog input is simulated based on the duration of digital button presses."
+msgstr "Povolit analogové řízení, akceleraci a brzdění levou páčkou a spouštěmi analogového gamepadu (s D-padem a tlačítky „Accelerate“ a „Brake“, které vytvářejí čistě digitální odezvu). Když je analogový vstup zakázán, simuluje se na základě délky stisknutí digitálních tlačítek."
+
+msgctxt "#30077"
+msgid "Set rate of change of simulated analog input when using a digital D-Pad for steering. Ignored when 'Input > Analog Controls' is enabled."
+msgstr "Nastavit rychlost změny simulovaného analogového vstupu při používání digitálního D-padu k řízení. Ignorováno, když je povoleno „Input > Analog Controls“."
+
+msgctxt "#30078"
+msgid "Set rate of change of simulated analog input when using digital buttons for acceleration/braking. Ignored when 'Input > Analog Controls' is enabled."
+msgstr "Nastavit rychlost změny simulovaného analogového vstupu při používání digitálních tlačítek k akceleraci/brzdění. Ignorováno, když je povoleno „Input > Analog Controls“."
+
+msgctxt "#30079"
+msgid "Set intensity of gamepad rumble effects."
+msgstr "Nastavit intenzitu efektů vibrací gamepadu."
+
+msgctxt "#30080"
+msgid "Game Engine"
+msgstr "Herní engine"
+
+msgctxt "#30081"
+msgid "Configure settings that change or enhance the base functionality of the original game engine."
+msgstr "Konfigurovat nastavení, která mění nebo rozšiřují základní funkce původního herního enginu."
+
+msgctxt "#30082"
+msgid "Select track layouts from the Japanese version of the game instead of those from the final Western release. Increases game difficulty by introducing sharper unforgiving hills and more aggressive turns."
+msgstr "Vybrat rozložení tratí z japonské verze hry namísto rozložení z finálního západního vydání. Zvýší obtížnost hry zavedením ostřejších, neúprosných kopců a agresivnějších zatáček."
+
+msgctxt "#30083"
+msgid "Enable the 'freeplay' mode of the original arcade machine, where no coins are required to play."
+msgstr "Povolit režim „freeplay“ původního arkádového automatu, ve kterém ke hraní nejsou potřeba mince."
+
+msgctxt "#30084"
+msgid "Enable computer control of the car during all races."
+msgstr "Povolit řízení vozu počítačem během všech závodů."
+
+msgctxt "#30085"
+msgid "Increase tyre grip to reduce lateral sliding while cornering."
+msgstr "Zvýšit přilnavost pneumatik pro omezení bočního smyku v zatáčkách."
+
+msgctxt "#30086"
+msgid "Prevent the usual speed reduction when driving away from the road surface."
+msgstr "Zabránit obvyklému snížení rychlosti při jízdě mimo povrch silnice."
+
+msgctxt "#30087"
+msgid "Reduce the effect of collisions with traffic vehicles."
+msgstr "Omezit účinek srážek s vozidly v provozu."
+
+msgctxt "#30088"
+msgid "Increase engine torque and raise the maximum vehicle speed."
+msgstr "Zvýšit točivý moment motoru a maximální rychlost vozidla."
+
+msgctxt "#30089"
+msgid "Select the Ferrari body colour."
+msgstr "Vybrat barvu karoserie Ferrari."
+
+msgctxt "#30090"
+msgid "Set initial time limit when starting Stage 1. Associated difficulty rating also affects how much time is added by the 'Extend Time' feature at the end of each stage."
+msgstr "Nastavit počáteční časový limit při zahájení 1. etapy. Související hodnocení obtížnosti ovlivňuje také, kolik času přidá funkce „Extend Time“ na konci každé etapy."
+
+msgctxt "#30091"
+msgid "Set density of on-screen traffic. Higher difficulty levels cause more traffic objects to spawn. Varies on a per-stage basis."
+msgstr "Nastavit hustotu provozu na obrazovce. Vyšší úrovně obtížnosti způsobí vytvoření většího počtu objektů provozu. Liší se podle jednotlivých etap."
+
+msgctxt "#30092"
+msgid "Remove the object slot limit present in the original game. Prevents the disappearance of random elements in 'busy' levels, e.g. archway segments in the Gateway stage."
+msgstr "Odstranit limit slotů objektů přítomný v původní hře. Zabrání mizení náhodných prvků v „rušných“ úrovních, např. segmentů oblouku v etapě Gateway."
+
+msgctxt "#30093"
+msgid "Replace Stage 1 (Coconut Beach) with an early, unused prototype contained in the original game data. Considered more difficult than the final Japanese and western versions of the track, and contains some scenery errors."
+msgstr "Nahradit 1. etapu (Coconut Beach) raným, nepoužitým prototypem obsaženým v původních datech hry. Je považován za obtížnější než finální japonské a západní verze trati a obsahuje chyby scenérie."
+
+msgctxt "#30094"
+msgid "Replace the original attract mode with an enhanced version featuring improved AI and cycling camera views."
+msgstr "Nahradit původní režim attract vylepšenou verzí s lepší umělou inteligencí a cyklicky se měnícími pohledy kamery."
+
+msgctxt "#30095"
+msgid "Spawn traffic objects randomly. When disabled, the fixed patterns of the original game are used."
+msgstr "Vytvářet objekty provozu náhodně. Pokud je volba zakázána, použijí se pevné vzory původní hry."
+
+msgctxt "#30096"
+msgid "Correct a number of minor graphical and base engine errors present in the original game. Includes fixes for shadow/sprite rendering glitches, wrong millisecond values shown when passing checkpoints and improper centering of the steering wheel."
+msgstr "Opravit řadu drobných grafických a základních chyb enginu v původní hře. Zahrnuje opravy chyb vykreslování stínů/spritů, nesprávných hodnot milisekund zobrazených při průjezdu kontrolními body a nesprávného vycentrování volantu."
+
+msgctxt "#30097"
+msgid "Correct a number of timing-related errors present in the original game. Includes fixes for the stage time counter decreasing ~7% slower than actual clock time, and the game over state occurring one second after the timer reaches zero."
+msgstr "Opravit řadu chyb souvisejících s časováním v původní hře. Zahrnuje opravy časovače etapy, který se snižuje přibližně o 7 % pomaleji než skutečný čas, a stavu konce hry, ke kterému dochází jednu sekundu po dosažení nuly časovače."
+
+msgctxt "#30098"
+msgid "Set number of laps to race on any track in 'Time Trial' mode."
+msgstr "Nastavit počet kol pro libovolnou trať v režimu „Time Trial“."
+
+msgctxt "#30099"
+msgid "Set maximum number of traffic objects that can appear on-screen simultaneously in 'Time Trial' mode."
+msgstr "Nastavit maximální počet objektů provozu, které se mohou současně zobrazit na obrazovce v režimu „Time Trial“."
+
+msgctxt "#30100"
+msgid "Set maximum number of traffic objects that can appear on-screen simultaneously in 'Continuous' mode."
+msgstr "Nastavit maximální počet objektů provozu, které se mohou současně zobrazit na obrazovce v režimu „Continuous“."
+
+msgctxt "#30101"
+msgid "Show debug information in the on-screen HUD: level position, height pattern, sprite pattern."
+msgstr "Zobrazit ladicí informace v HUD na obrazovce: pozice v úrovni, vzor výšky, vzor spritu."
