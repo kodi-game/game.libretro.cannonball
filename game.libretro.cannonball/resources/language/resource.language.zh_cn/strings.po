@@ -25,146 +25,6 @@ msgctxt "Addon Description"
 msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.[CR][CR]Note: OutRun Revision B files are needed. See the file [I]roms needed.txt[/I]."
 msgstr "Cannonball 是铃木裕（Yu Suzuki）于 1986 年设计的开创性街机赛车游戏《OutRun》的增强版。[CR][CR]注：需要《OutRun》B 版文件。请参阅文件 [I]roms needed.txt[/I]。"
 
-msgctxt "#30001"
-msgid "Menu > Show at Start"
-msgstr "菜单 > 开始时显示"
-
-msgctxt "#30002"
-msgid "Menu > Road Scroll Speed"
-msgstr "菜单 > 道路滚动速度"
-
-msgctxt "#30003"
-msgid "Video > Frame Rate"
-msgstr "视频 > 帧率"
-
-msgctxt "#30004"
-msgid "Video > Widescreen Mode"
-msgstr "视频 > 宽屏模式"
-
-msgctxt "#30005"
-msgid "Video > High-Resolution Mode"
-msgstr "视频 > 高分辨率模式"
-
-msgctxt "#30006"
-msgid "Audio > Enable"
-msgstr "音频 > 启用"
-
-msgctxt "#30007"
-msgid "Audio > Advertise Sound (Restart)"
-msgstr "音频 > 播发声音（重新启动）"
-
-msgctxt "#30008"
-msgid "Audio > Preview Music (Restart)"
-msgstr "音频 > 预览音乐（重新启动）"
-
-msgctxt "#30009"
-msgid "Audio > Fix Samples (Restart)"
-msgstr "音频 > 修复样本（重新启动）"
-
-msgctxt "#30010"
-msgid "Input > Gear Mode"
-msgstr "输入 > 档位模式"
-
-msgctxt "#30011"
-msgid "Input > Analog Controls"
-msgstr "输入 > 模拟控制"
-
-msgctxt "#30012"
-msgid "Input > Digital Steer Speed (Restart)"
-msgstr "输入 > 数字转向速度（重新启动）"
-
-msgctxt "#30013"
-msgid "Input > Digital Pedal Speed (Restart)"
-msgstr "输入 > 数字踏板速度（重新启动）"
-
-msgctxt "#30014"
-msgid "Input > Haptic Feedback Strength"
-msgstr "输入 > 触觉反馈强度"
-
-msgctxt "#30015"
-msgid "Engine > Use Japanese Tracks (Restart)"
-msgstr "引擎 > 使用日语音轨（重新启动）"
-
-msgctxt "#30016"
-msgid "Engine > Freeplay Mode"
-msgstr "引擎 > 自由播放模式"
-
-msgctxt "#30017"
-msgid "Engine > Force AI to Play"
-msgstr "引擎 > 强制 AI 播放"
-
-msgctxt "#30018"
-msgid "Engine > Time Limit (Restart)"
-msgstr "引擎 > 时间限制（重新启动）"
-
-msgctxt "#30019"
-msgid "Engine > Traffic Difficulty (Restart)"
-msgstr "引擎 > 车流困难度（重新启动）"
-
-msgctxt "#30020"
-msgid "Engine > Extra Level Objects (Restart)"
-msgstr "引擎 > 额外级别对象（重新启动）"
-
-msgctxt "#30021"
-msgid "Engine > Use Prototype Stage 1 (Restart)"
-msgstr "引擎 > 使用原型阶段1（重新启动）"
-
-msgctxt "#30022"
-msgid "Engine > New Attract Mode (Restart)"
-msgstr "引擎 > 新吸引模式（重新启动）"
-
-msgctxt "#30023"
-msgid "Engine > Randomize Traffic Patterns (Restart)"
-msgstr "引擎 > 随机化车流模式（重新启动）"
-
-msgctxt "#30024"
-msgid "Engine > Fix Game Bugs (Restart)"
-msgstr "引擎 > 修复游戏错误（重新启动）"
-
-msgctxt "#30025"
-msgid "Engine > Fix Timing Bugs (Restart)"
-msgstr "引擎 > 修复计时错误（重新启动）"
-
-msgctxt "#30026"
-msgid "Engine > Time Trial Laps (Restart)"
-msgstr "引擎 > 计时赛圈数（重新启动）"
-
-msgctxt "#30027"
-msgid "Engine > Time Trial Traffic Level (Restart)"
-msgstr "引擎 > 计时赛车流级别（重新启动）"
-
-msgctxt "#30028"
-msgid "Engine > Continuous Mode Traffic Level (Restart)"
-msgstr "引擎 > 连续模式车流级别（重新启动）"
-
-msgctxt "#30029"
-msgid "Engine > Display Debug Info (Restart)"
-msgstr "引擎 > 显示调试信息（重新启动）"
-
-msgctxt "#30030"
-msgid "Audio > Custom WAV Volume"
-msgstr ""
-
-msgctxt "#30031"
-msgid "Engine > Grippy Tyres"
-msgstr ""
-
-msgctxt "#30032"
-msgid "Engine > Offroad Tyres"
-msgstr ""
-
-msgctxt "#30033"
-msgid "Engine > Strong Bumper"
-msgstr ""
-
-msgctxt "#30034"
-msgid "Engine > Faster Car"
-msgstr ""
-
-msgctxt "#30035"
-msgid "Engine > Car Color"
-msgstr ""
-
 msgctxt "#30036"
 msgid "Game Menu"
 msgstr ""
@@ -428,6 +288,250 @@ msgstr ""
 msgctxt "#30101"
 msgid "Show debug information in the on-screen HUD: level position, height pattern, sprite pattern."
 msgstr ""
+
+msgctxt "#30104"
+msgid "Frame Rate"
+msgstr "帧率"
+
+msgctxt "#30105"
+msgid "Widescreen Mode"
+msgstr "宽屏模式"
+
+msgctxt "#30106"
+msgid "High-Resolution Mode"
+msgstr "高分辨率模式"
+
+msgctxt "#30109"
+msgid "Advertise Sound (Restart)"
+msgstr "播发声音（重新启动）"
+
+msgctxt "#30110"
+msgid "Preview Music (Restart)"
+msgstr "预览音乐（重新启动）"
+
+msgctxt "#30111"
+msgid "Fix Samples (Restart)"
+msgstr "修复样本（重新启动）"
+
+msgctxt "#30112"
+msgid "Gear Mode"
+msgstr "档位模式"
+
+msgctxt "#30113"
+msgid "Analog Controls"
+msgstr "模拟控制"
+
+msgctxt "#30114"
+msgid "Digital Steer Speed (Restart)"
+msgstr "数字转向速度（重新启动）"
+
+msgctxt "#30115"
+msgid "Digital Pedal Speed (Restart)"
+msgstr "数字踏板速度（重新启动）"
+
+msgctxt "#30116"
+msgid "Haptic Feedback Strength"
+msgstr "触觉反馈强度"
+
+msgctxt "#30117"
+msgid "Use Japanese Tracks (Restart)"
+msgstr "使用日语音轨（重新启动）"
+
+msgctxt "#30118"
+msgid "Freeplay Mode"
+msgstr "自由播放模式"
+
+msgctxt "#30119"
+msgid "Force AI to Play"
+msgstr "强制 AI 播放"
+
+msgctxt "#30125"
+msgid "Time Limit (Restart)"
+msgstr "时间限制（重新启动）"
+
+msgctxt "#30126"
+msgid "Traffic Difficulty (Restart)"
+msgstr "车流困难度（重新启动）"
+
+msgctxt "#30127"
+msgid "Extra Level Objects (Restart)"
+msgstr "额外级别对象（重新启动）"
+
+msgctxt "#30128"
+msgid "Use Prototype Stage 1 (Restart)"
+msgstr "使用原型阶段1（重新启动）"
+
+msgctxt "#30129"
+msgid "New Attract Mode (Restart)"
+msgstr "新吸引模式（重新启动）"
+
+msgctxt "#30130"
+msgid "Randomize Traffic Patterns (Restart)"
+msgstr "随机化车流模式（重新启动）"
+
+msgctxt "#30131"
+msgid "Fix Game Bugs (Restart)"
+msgstr "修复游戏错误（重新启动）"
+
+msgctxt "#30132"
+msgid "Fix Timing Bugs (Restart)"
+msgstr "修复计时错误（重新启动）"
+
+msgctxt "#30133"
+msgid "Time Trial Laps (Restart)"
+msgstr "计时赛圈数（重新启动）"
+
+msgctxt "#30134"
+msgid "Time Trial Traffic Level (Restart)"
+msgstr "计时赛车流级别（重新启动）"
+
+msgctxt "#30135"
+msgid "Continuous Mode Traffic Level (Restart)"
+msgstr "连续模式车流级别（重新启动）"
+
+msgctxt "#30136"
+msgid "Display Debug Info (Restart)"
+msgstr "显示调试信息（重新启动）"
+
+#~ msgctxt "#30001"
+#~ msgid "Menu > Show at Start"
+#~ msgstr "菜单 > 开始时显示"
+
+#~ msgctxt "#30002"
+#~ msgid "Menu > Road Scroll Speed"
+#~ msgstr "菜单 > 道路滚动速度"
+
+#~ msgctxt "#30003"
+#~ msgid "Video > Frame Rate"
+#~ msgstr "视频 > 帧率"
+
+#~ msgctxt "#30004"
+#~ msgid "Video > Widescreen Mode"
+#~ msgstr "视频 > 宽屏模式"
+
+#~ msgctxt "#30005"
+#~ msgid "Video > High-Resolution Mode"
+#~ msgstr "视频 > 高分辨率模式"
+
+#~ msgctxt "#30006"
+#~ msgid "Audio > Enable"
+#~ msgstr "音频 > 启用"
+
+#~ msgctxt "#30007"
+#~ msgid "Audio > Advertise Sound (Restart)"
+#~ msgstr "音频 > 播发声音（重新启动）"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio > Preview Music (Restart)"
+#~ msgstr "音频 > 预览音乐（重新启动）"
+
+#~ msgctxt "#30009"
+#~ msgid "Audio > Fix Samples (Restart)"
+#~ msgstr "音频 > 修复样本（重新启动）"
+
+#~ msgctxt "#30010"
+#~ msgid "Input > Gear Mode"
+#~ msgstr "输入 > 档位模式"
+
+#~ msgctxt "#30011"
+#~ msgid "Input > Analog Controls"
+#~ msgstr "输入 > 模拟控制"
+
+#~ msgctxt "#30012"
+#~ msgid "Input > Digital Steer Speed (Restart)"
+#~ msgstr "输入 > 数字转向速度（重新启动）"
+
+#~ msgctxt "#30013"
+#~ msgid "Input > Digital Pedal Speed (Restart)"
+#~ msgstr "输入 > 数字踏板速度（重新启动）"
+
+#~ msgctxt "#30014"
+#~ msgid "Input > Haptic Feedback Strength"
+#~ msgstr "输入 > 触觉反馈强度"
+
+#~ msgctxt "#30015"
+#~ msgid "Engine > Use Japanese Tracks (Restart)"
+#~ msgstr "引擎 > 使用日语音轨（重新启动）"
+
+#~ msgctxt "#30016"
+#~ msgid "Engine > Freeplay Mode"
+#~ msgstr "引擎 > 自由播放模式"
+
+#~ msgctxt "#30017"
+#~ msgid "Engine > Force AI to Play"
+#~ msgstr "引擎 > 强制 AI 播放"
+
+#~ msgctxt "#30018"
+#~ msgid "Engine > Time Limit (Restart)"
+#~ msgstr "引擎 > 时间限制（重新启动）"
+
+#~ msgctxt "#30019"
+#~ msgid "Engine > Traffic Difficulty (Restart)"
+#~ msgstr "引擎 > 车流困难度（重新启动）"
+
+#~ msgctxt "#30020"
+#~ msgid "Engine > Extra Level Objects (Restart)"
+#~ msgstr "引擎 > 额外级别对象（重新启动）"
+
+#~ msgctxt "#30021"
+#~ msgid "Engine > Use Prototype Stage 1 (Restart)"
+#~ msgstr "引擎 > 使用原型阶段1（重新启动）"
+
+#~ msgctxt "#30022"
+#~ msgid "Engine > New Attract Mode (Restart)"
+#~ msgstr "引擎 > 新吸引模式（重新启动）"
+
+#~ msgctxt "#30023"
+#~ msgid "Engine > Randomize Traffic Patterns (Restart)"
+#~ msgstr "引擎 > 随机化车流模式（重新启动）"
+
+#~ msgctxt "#30024"
+#~ msgid "Engine > Fix Game Bugs (Restart)"
+#~ msgstr "引擎 > 修复游戏错误（重新启动）"
+
+#~ msgctxt "#30025"
+#~ msgid "Engine > Fix Timing Bugs (Restart)"
+#~ msgstr "引擎 > 修复计时错误（重新启动）"
+
+#~ msgctxt "#30026"
+#~ msgid "Engine > Time Trial Laps (Restart)"
+#~ msgstr "引擎 > 计时赛圈数（重新启动）"
+
+#~ msgctxt "#30027"
+#~ msgid "Engine > Time Trial Traffic Level (Restart)"
+#~ msgstr "引擎 > 计时赛车流级别（重新启动）"
+
+#~ msgctxt "#30028"
+#~ msgid "Engine > Continuous Mode Traffic Level (Restart)"
+#~ msgstr "引擎 > 连续模式车流级别（重新启动）"
+
+#~ msgctxt "#30029"
+#~ msgid "Engine > Display Debug Info (Restart)"
+#~ msgstr "引擎 > 显示调试信息（重新启动）"
+
+#~ msgctxt "#30030"
+#~ msgid "Audio > Custom WAV Volume"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "Engine > Grippy Tyres"
+#~ msgstr ""
+
+#~ msgctxt "#30032"
+#~ msgid "Engine > Offroad Tyres"
+#~ msgstr ""
+
+#~ msgctxt "#30033"
+#~ msgid "Engine > Strong Bumper"
+#~ msgstr ""
+
+#~ msgctxt "#30034"
+#~ msgid "Engine > Faster Car"
+#~ msgstr ""
+
+#~ msgctxt "#30035"
+#~ msgid "Engine > Car Color"
+#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

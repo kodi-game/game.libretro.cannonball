@@ -25,146 +25,6 @@ msgctxt "Addon Description"
 msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.[CR][CR]Note: OutRun Revision B files are needed. See the file [I]roms needed.txt[/I]."
 msgstr "Cannonball je vylepšená verze přelomové arkádové závodní hry OutRun, kterou v roce 1986 navrhl Yu Suzuki.[CR][CR]Poznámka: jsou potřeba soubory OutRun Revision B. Podívejte se do souboru [I]roms needed.txt[/I]."
 
-msgctxt "#30001"
-msgid "Menu > Show at Start"
-msgstr "Nabídka > zobrazit při spuštění"
-
-msgctxt "#30002"
-msgid "Menu > Road Scroll Speed"
-msgstr "Nabídka > rychlost posouvání silnice"
-
-msgctxt "#30003"
-msgid "Video > Frame Rate"
-msgstr "Video > snímková frekvence"
-
-msgctxt "#30004"
-msgid "Video > Widescreen Mode"
-msgstr "Video > širokoúhlý režim"
-
-msgctxt "#30005"
-msgid "Video > High-Resolution Mode"
-msgstr "Video > režim vysokého rozlišení"
-
-msgctxt "#30006"
-msgid "Audio > Enable"
-msgstr "Zvuk > povolit"
-
-msgctxt "#30007"
-msgid "Audio > Advertise Sound (Restart)"
-msgstr "Zvuk > zvuk ukázkového režimu (vyžaduje restart)"
-
-msgctxt "#30008"
-msgid "Audio > Preview Music (Restart)"
-msgstr "Zvuk > ukázky hudby (vyžaduje restart)"
-
-msgctxt "#30009"
-msgid "Audio > Fix Samples (Restart)"
-msgstr "Zvuk > opravit samply (vyžaduje restart)"
-
-msgctxt "#30010"
-msgid "Input > Gear Mode"
-msgstr "Vstup > režim řazení"
-
-msgctxt "#30011"
-msgid "Input > Analog Controls"
-msgstr "Vstup > analogové ovládání"
-
-msgctxt "#30012"
-msgid "Input > Digital Steer Speed (Restart)"
-msgstr "Vstup > rychlost digitálního řízení (vyžaduje restart)"
-
-msgctxt "#30013"
-msgid "Input > Digital Pedal Speed (Restart)"
-msgstr "Vstup > rychlost digitálních pedálů (vyžaduje restart)"
-
-msgctxt "#30014"
-msgid "Input > Haptic Feedback Strength"
-msgstr "Vstup > síla haptické odezvy"
-
-msgctxt "#30015"
-msgid "Engine > Use Japanese Tracks (Restart)"
-msgstr "Herní engine > používat japonské tratě (vyžaduje restart)"
-
-msgctxt "#30016"
-msgid "Engine > Freeplay Mode"
-msgstr "Herní engine > režim volné hry"
-
-msgctxt "#30017"
-msgid "Engine > Force AI to Play"
-msgstr "Herní engine > vynutit hraní AI"
-
-msgctxt "#30018"
-msgid "Engine > Time Limit (Restart)"
-msgstr "Herní engine > časový limit (vyžaduje restart)"
-
-msgctxt "#30019"
-msgid "Engine > Traffic Difficulty (Restart)"
-msgstr "Herní engine > obtížnost provozu (vyžaduje restart)"
-
-msgctxt "#30020"
-msgid "Engine > Extra Level Objects (Restart)"
-msgstr "Herní engine > další objekty úrovní (vyžaduje restart)"
-
-msgctxt "#30021"
-msgid "Engine > Use Prototype Stage 1 (Restart)"
-msgstr "Herní engine > používat prototypovou první etapu (vyžaduje restart)"
-
-msgctxt "#30022"
-msgid "Engine > New Attract Mode (Restart)"
-msgstr "Herní engine > nový ukázkový režim (vyžaduje restart)"
-
-msgctxt "#30023"
-msgid "Engine > Randomize Traffic Patterns (Restart)"
-msgstr "Herní engine > randomizovat vzorce provozu (vyžaduje restart)"
-
-msgctxt "#30024"
-msgid "Engine > Fix Game Bugs (Restart)"
-msgstr "Herní engine > opravit chyby hry (vyžaduje restart)"
-
-msgctxt "#30025"
-msgid "Engine > Fix Timing Bugs (Restart)"
-msgstr "Herní engine > opravit chyby časování (vyžaduje restart)"
-
-msgctxt "#30026"
-msgid "Engine > Time Trial Laps (Restart)"
-msgstr "Herní engine > kola časovky (vyžaduje restart)"
-
-msgctxt "#30027"
-msgid "Engine > Time Trial Traffic Level (Restart)"
-msgstr "Herní engine > úroveň provozu v časovce (vyžaduje restart)"
-
-msgctxt "#30028"
-msgid "Engine > Continuous Mode Traffic Level (Restart)"
-msgstr "Herní engine > úroveň provozu v kontinuálním režimu (vyžaduje restart)"
-
-msgctxt "#30029"
-msgid "Engine > Display Debug Info (Restart)"
-msgstr "Herní engine > zobrazit ladicí informace (vyžaduje restart)"
-
-msgctxt "#30030"
-msgid "Audio > Custom WAV Volume"
-msgstr "Zvuk > Hlasitost vlastního souboru WAV"
-
-msgctxt "#30031"
-msgid "Engine > Grippy Tyres"
-msgstr "Herní engine > Přilnavé pneumatiky"
-
-msgctxt "#30032"
-msgid "Engine > Offroad Tyres"
-msgstr "Herní engine > Terénní pneumatiky"
-
-msgctxt "#30033"
-msgid "Engine > Strong Bumper"
-msgstr "Herní engine > Pevný nárazník"
-
-msgctxt "#30034"
-msgid "Engine > Faster Car"
-msgstr "Herní engine > Rychlejší vůz"
-
-msgctxt "#30035"
-msgid "Engine > Car Color"
-msgstr "Herní engine > Barva vozu"
-
 msgctxt "#30036"
 msgid "Game Menu"
 msgstr "Herní nabídka"
@@ -428,3 +288,271 @@ msgstr "Nastavit maximální počet objektů provozu, které se mohou současně
 msgctxt "#30101"
 msgid "Show debug information in the on-screen HUD: level position, height pattern, sprite pattern."
 msgstr "Zobrazit ladicí informace v HUD na obrazovce: pozice v úrovni, vzor výšky, vzor spritu."
+
+msgctxt "#30104"
+msgid "Frame Rate"
+msgstr "Snímková frekvence"
+
+msgctxt "#30105"
+msgid "Widescreen Mode"
+msgstr "Širokoúhlý režim"
+
+msgctxt "#30106"
+msgid "High-Resolution Mode"
+msgstr "Režim vysokého rozlišení"
+
+msgctxt "#30108"
+msgid "Custom WAV Volume"
+msgstr "Hlasitost vlastního souboru WAV"
+
+msgctxt "#30109"
+msgid "Advertise Sound (Restart)"
+msgstr "Zvuk ukázkového režimu (vyžaduje restart)"
+
+msgctxt "#30110"
+msgid "Preview Music (Restart)"
+msgstr "Ukázky hudby (vyžaduje restart)"
+
+msgctxt "#30111"
+msgid "Fix Samples (Restart)"
+msgstr "Opravit samply (vyžaduje restart)"
+
+msgctxt "#30112"
+msgid "Gear Mode"
+msgstr "Režim řazení"
+
+msgctxt "#30113"
+msgid "Analog Controls"
+msgstr "Analogové ovládání"
+
+msgctxt "#30114"
+msgid "Digital Steer Speed (Restart)"
+msgstr "Rychlost digitálního řízení (vyžaduje restart)"
+
+msgctxt "#30115"
+msgid "Digital Pedal Speed (Restart)"
+msgstr "Rychlost digitálních pedálů (vyžaduje restart)"
+
+msgctxt "#30116"
+msgid "Haptic Feedback Strength"
+msgstr "Síla haptické odezvy"
+
+msgctxt "#30117"
+msgid "Use Japanese Tracks (Restart)"
+msgstr "Používat japonské tratě (vyžaduje restart)"
+
+msgctxt "#30118"
+msgid "Freeplay Mode"
+msgstr "Režim volné hry"
+
+msgctxt "#30119"
+msgid "Force AI to Play"
+msgstr "Vynutit hraní AI"
+
+msgctxt "#30120"
+msgid "Grippy Tyres"
+msgstr "Přilnavé pneumatiky"
+
+msgctxt "#30121"
+msgid "Offroad Tyres"
+msgstr "Terénní pneumatiky"
+
+msgctxt "#30122"
+msgid "Strong Bumper"
+msgstr "Pevný nárazník"
+
+msgctxt "#30123"
+msgid "Faster Car"
+msgstr "Rychlejší vůz"
+
+msgctxt "#30124"
+msgid "Car Color"
+msgstr "Barva vozu"
+
+msgctxt "#30125"
+msgid "Time Limit (Restart)"
+msgstr "Časový limit (vyžaduje restart)"
+
+msgctxt "#30126"
+msgid "Traffic Difficulty (Restart)"
+msgstr "Obtížnost provozu (vyžaduje restart)"
+
+msgctxt "#30127"
+msgid "Extra Level Objects (Restart)"
+msgstr "Další objekty úrovní (vyžaduje restart)"
+
+msgctxt "#30128"
+msgid "Use Prototype Stage 1 (Restart)"
+msgstr "Používat prototypovou první etapu (vyžaduje restart)"
+
+msgctxt "#30129"
+msgid "New Attract Mode (Restart)"
+msgstr "Nový ukázkový režim (vyžaduje restart)"
+
+msgctxt "#30130"
+msgid "Randomize Traffic Patterns (Restart)"
+msgstr "Randomizovat vzorce provozu (vyžaduje restart)"
+
+msgctxt "#30131"
+msgid "Fix Game Bugs (Restart)"
+msgstr "Opravit chyby hry (vyžaduje restart)"
+
+msgctxt "#30132"
+msgid "Fix Timing Bugs (Restart)"
+msgstr "Opravit chyby časování (vyžaduje restart)"
+
+msgctxt "#30133"
+msgid "Time Trial Laps (Restart)"
+msgstr "Kola časovky (vyžaduje restart)"
+
+msgctxt "#30134"
+msgid "Time Trial Traffic Level (Restart)"
+msgstr "Úroveň provozu v časovce (vyžaduje restart)"
+
+msgctxt "#30135"
+msgid "Continuous Mode Traffic Level (Restart)"
+msgstr "Úroveň provozu v kontinuálním režimu (vyžaduje restart)"
+
+msgctxt "#30136"
+msgid "Display Debug Info (Restart)"
+msgstr "Zobrazit ladicí informace (vyžaduje restart)"
+
+#~ msgctxt "#30001"
+#~ msgid "Menu > Show at Start"
+#~ msgstr "Nabídka > zobrazit při spuštění"
+
+#~ msgctxt "#30002"
+#~ msgid "Menu > Road Scroll Speed"
+#~ msgstr "Nabídka > rychlost posouvání silnice"
+
+#~ msgctxt "#30003"
+#~ msgid "Video > Frame Rate"
+#~ msgstr "Video > snímková frekvence"
+
+#~ msgctxt "#30004"
+#~ msgid "Video > Widescreen Mode"
+#~ msgstr "Video > širokoúhlý režim"
+
+#~ msgctxt "#30005"
+#~ msgid "Video > High-Resolution Mode"
+#~ msgstr "Video > režim vysokého rozlišení"
+
+#~ msgctxt "#30006"
+#~ msgid "Audio > Enable"
+#~ msgstr "Zvuk > povolit"
+
+#~ msgctxt "#30007"
+#~ msgid "Audio > Advertise Sound (Restart)"
+#~ msgstr "Zvuk > zvuk ukázkového režimu (vyžaduje restart)"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio > Preview Music (Restart)"
+#~ msgstr "Zvuk > ukázky hudby (vyžaduje restart)"
+
+#~ msgctxt "#30009"
+#~ msgid "Audio > Fix Samples (Restart)"
+#~ msgstr "Zvuk > opravit samply (vyžaduje restart)"
+
+#~ msgctxt "#30010"
+#~ msgid "Input > Gear Mode"
+#~ msgstr "Vstup > režim řazení"
+
+#~ msgctxt "#30011"
+#~ msgid "Input > Analog Controls"
+#~ msgstr "Vstup > analogové ovládání"
+
+#~ msgctxt "#30012"
+#~ msgid "Input > Digital Steer Speed (Restart)"
+#~ msgstr "Vstup > rychlost digitálního řízení (vyžaduje restart)"
+
+#~ msgctxt "#30013"
+#~ msgid "Input > Digital Pedal Speed (Restart)"
+#~ msgstr "Vstup > rychlost digitálních pedálů (vyžaduje restart)"
+
+#~ msgctxt "#30014"
+#~ msgid "Input > Haptic Feedback Strength"
+#~ msgstr "Vstup > síla haptické odezvy"
+
+#~ msgctxt "#30015"
+#~ msgid "Engine > Use Japanese Tracks (Restart)"
+#~ msgstr "Herní engine > používat japonské tratě (vyžaduje restart)"
+
+#~ msgctxt "#30016"
+#~ msgid "Engine > Freeplay Mode"
+#~ msgstr "Herní engine > režim volné hry"
+
+#~ msgctxt "#30017"
+#~ msgid "Engine > Force AI to Play"
+#~ msgstr "Herní engine > vynutit hraní AI"
+
+#~ msgctxt "#30018"
+#~ msgid "Engine > Time Limit (Restart)"
+#~ msgstr "Herní engine > časový limit (vyžaduje restart)"
+
+#~ msgctxt "#30019"
+#~ msgid "Engine > Traffic Difficulty (Restart)"
+#~ msgstr "Herní engine > obtížnost provozu (vyžaduje restart)"
+
+#~ msgctxt "#30020"
+#~ msgid "Engine > Extra Level Objects (Restart)"
+#~ msgstr "Herní engine > další objekty úrovní (vyžaduje restart)"
+
+#~ msgctxt "#30021"
+#~ msgid "Engine > Use Prototype Stage 1 (Restart)"
+#~ msgstr "Herní engine > používat prototypovou první etapu (vyžaduje restart)"
+
+#~ msgctxt "#30022"
+#~ msgid "Engine > New Attract Mode (Restart)"
+#~ msgstr "Herní engine > nový ukázkový režim (vyžaduje restart)"
+
+#~ msgctxt "#30023"
+#~ msgid "Engine > Randomize Traffic Patterns (Restart)"
+#~ msgstr "Herní engine > randomizovat vzorce provozu (vyžaduje restart)"
+
+#~ msgctxt "#30024"
+#~ msgid "Engine > Fix Game Bugs (Restart)"
+#~ msgstr "Herní engine > opravit chyby hry (vyžaduje restart)"
+
+#~ msgctxt "#30025"
+#~ msgid "Engine > Fix Timing Bugs (Restart)"
+#~ msgstr "Herní engine > opravit chyby časování (vyžaduje restart)"
+
+#~ msgctxt "#30026"
+#~ msgid "Engine > Time Trial Laps (Restart)"
+#~ msgstr "Herní engine > kola časovky (vyžaduje restart)"
+
+#~ msgctxt "#30027"
+#~ msgid "Engine > Time Trial Traffic Level (Restart)"
+#~ msgstr "Herní engine > úroveň provozu v časovce (vyžaduje restart)"
+
+#~ msgctxt "#30028"
+#~ msgid "Engine > Continuous Mode Traffic Level (Restart)"
+#~ msgstr "Herní engine > úroveň provozu v kontinuálním režimu (vyžaduje restart)"
+
+#~ msgctxt "#30029"
+#~ msgid "Engine > Display Debug Info (Restart)"
+#~ msgstr "Herní engine > zobrazit ladicí informace (vyžaduje restart)"
+
+#~ msgctxt "#30030"
+#~ msgid "Audio > Custom WAV Volume"
+#~ msgstr "Zvuk > Hlasitost vlastního souboru WAV"
+
+#~ msgctxt "#30031"
+#~ msgid "Engine > Grippy Tyres"
+#~ msgstr "Herní engine > Přilnavé pneumatiky"
+
+#~ msgctxt "#30032"
+#~ msgid "Engine > Offroad Tyres"
+#~ msgstr "Herní engine > Terénní pneumatiky"
+
+#~ msgctxt "#30033"
+#~ msgid "Engine > Strong Bumper"
+#~ msgstr "Herní engine > Pevný nárazník"
+
+#~ msgctxt "#30034"
+#~ msgid "Engine > Faster Car"
+#~ msgstr "Herní engine > Rychlejší vůz"
+
+#~ msgctxt "#30035"
+#~ msgid "Engine > Car Color"
+#~ msgstr "Herní engine > Barva vozu"

@@ -25,146 +25,6 @@ msgctxt "Addon Description"
 msgid "Cannonball is an enhanced version of the seminal arcade racer OutRun designed by Yu Suzuki in 1986.[CR][CR]Note: OutRun Revision B files are needed. See the file [I]roms needed.txt[/I]."
 msgstr "Cannonball är en förbättrad version av den banbrytande arkadracern OutRun som designades av Yu Suzuki 1986.[CR][CR]Notera: OutRun Revision B-filer behövs. Se filen [I]roms needed.txt[/I]."
 
-msgctxt "#30001"
-msgid "Menu > Show at Start"
-msgstr "Meny > Visa vid start"
-
-msgctxt "#30002"
-msgid "Menu > Road Scroll Speed"
-msgstr "Meny > Rullningshastighet för väg"
-
-msgctxt "#30003"
-msgid "Video > Frame Rate"
-msgstr "Video > Bildfrekvens"
-
-msgctxt "#30004"
-msgid "Video > Widescreen Mode"
-msgstr "Video > Bredbildsläge"
-
-msgctxt "#30005"
-msgid "Video > High-Resolution Mode"
-msgstr "Video > Högupplöst läge"
-
-msgctxt "#30006"
-msgid "Audio > Enable"
-msgstr "Ljud > Aktivera"
-
-msgctxt "#30007"
-msgid "Audio > Advertise Sound (Restart)"
-msgstr "Ljud > Annonsera ljud (omstart)"
-
-msgctxt "#30008"
-msgid "Audio > Preview Music (Restart)"
-msgstr "Ljud > Förhandsmusik (omstart)"
-
-msgctxt "#30009"
-msgid "Audio > Fix Samples (Restart)"
-msgstr "Ljud > Fixa samplingar (omstart)"
-
-msgctxt "#30010"
-msgid "Input > Gear Mode"
-msgstr "Inmatning > Växelläge"
-
-msgctxt "#30011"
-msgid "Input > Analog Controls"
-msgstr "Inmatning > Analoga kontroller"
-
-msgctxt "#30012"
-msgid "Input > Digital Steer Speed (Restart)"
-msgstr "Inmatning > Digital styrhastighet (omstart)"
-
-msgctxt "#30013"
-msgid "Input > Digital Pedal Speed (Restart)"
-msgstr "Inmatning > Digital pedalhastighet (omstart)"
-
-msgctxt "#30014"
-msgid "Input > Haptic Feedback Strength"
-msgstr "Inmatning > Styrka för haptisk återkoppling"
-
-msgctxt "#30015"
-msgid "Engine > Use Japanese Tracks (Restart)"
-msgstr "Motor > Använd japanska spår (omstart)"
-
-msgctxt "#30016"
-msgid "Engine > Freeplay Mode"
-msgstr "Motor > Freeplay-läge"
-
-msgctxt "#30017"
-msgid "Engine > Force AI to Play"
-msgstr "Motor > Tvinga AI att spela"
-
-msgctxt "#30018"
-msgid "Engine > Time Limit (Restart)"
-msgstr "Motor > Tidsgräns (omstart)"
-
-msgctxt "#30019"
-msgid "Engine > Traffic Difficulty (Restart)"
-msgstr "Motor > Trafiksvårighet (omstart)"
-
-msgctxt "#30020"
-msgid "Engine > Extra Level Objects (Restart)"
-msgstr "Motor > Extra objekt i nivåer (omstart)"
-
-msgctxt "#30021"
-msgid "Engine > Use Prototype Stage 1 (Restart)"
-msgstr "Motor > Använd prototyp steg 1 (omstart)"
-
-msgctxt "#30022"
-msgid "Engine > New Attract Mode (Restart)"
-msgstr "Motor > Nytt demonstrationsläge (omstart)"
-
-msgctxt "#30023"
-msgid "Engine > Randomize Traffic Patterns (Restart)"
-msgstr "Motor > Slumpmässiga trafikmönster (omstart)"
-
-msgctxt "#30024"
-msgid "Engine > Fix Game Bugs (Restart)"
-msgstr "Motor > Åtgärda spelbuggar (omstart)"
-
-msgctxt "#30025"
-msgid "Engine > Fix Timing Bugs (Restart)"
-msgstr "Motor > Åtgärda timingfel (omstart)"
-
-msgctxt "#30026"
-msgid "Engine > Time Trial Laps (Restart)"
-msgstr "Motor > Träna på tidskörning (omstart)"
-
-msgctxt "#30027"
-msgid "Engine > Time Trial Traffic Level (Restart)"
-msgstr "Motor > Trafiknivå i tidskörning (omstart)"
-
-msgctxt "#30028"
-msgid "Engine > Continuous Mode Traffic Level (Restart)"
-msgstr "Motor > Trafiknivå i kontinuerligt läge (omstart)"
-
-msgctxt "#30029"
-msgid "Engine > Display Debug Info (Restart)"
-msgstr "Motor > Visa felsökningsinformation (omstart)"
-
-msgctxt "#30030"
-msgid "Audio > Custom WAV Volume"
-msgstr "Ljud > Volym för anpassade WAV-filer"
-
-msgctxt "#30031"
-msgid "Engine > Grippy Tyres"
-msgstr "Motor > Greppvänliga däck"
-
-msgctxt "#30032"
-msgid "Engine > Offroad Tyres"
-msgstr "Motor > Terrängdäck"
-
-msgctxt "#30033"
-msgid "Engine > Strong Bumper"
-msgstr "Motor > Stark stötfångare"
-
-msgctxt "#30034"
-msgid "Engine > Faster Car"
-msgstr "Motor > Snabbare bil"
-
-msgctxt "#30035"
-msgid "Engine > Car Color"
-msgstr "Motor > Bilfärg"
-
 msgctxt "#30036"
 msgid "Game Menu"
 msgstr "Spelmeny"
@@ -428,6 +288,274 @@ msgstr "Ställ in högsta antal trafikobjekt som kan visas samtidigt i läget �
 msgctxt "#30101"
 msgid "Show debug information in the on-screen HUD: level position, height pattern, sprite pattern."
 msgstr "Visa felsökningsinformation i HUD:en på skärmen: nivåposition, höjdmönster och spritemönster."
+
+msgctxt "#30104"
+msgid "Frame Rate"
+msgstr "Bildfrekvens"
+
+msgctxt "#30105"
+msgid "Widescreen Mode"
+msgstr "Bredbildsläge"
+
+msgctxt "#30106"
+msgid "High-Resolution Mode"
+msgstr "Högupplöst läge"
+
+msgctxt "#30108"
+msgid "Custom WAV Volume"
+msgstr "Volym för anpassade WAV-filer"
+
+msgctxt "#30109"
+msgid "Advertise Sound (Restart)"
+msgstr "Annonsera ljud (omstart)"
+
+msgctxt "#30110"
+msgid "Preview Music (Restart)"
+msgstr "Förhandsmusik (omstart)"
+
+msgctxt "#30111"
+msgid "Fix Samples (Restart)"
+msgstr "Fixa samplingar (omstart)"
+
+msgctxt "#30112"
+msgid "Gear Mode"
+msgstr "Växelläge"
+
+msgctxt "#30113"
+msgid "Analog Controls"
+msgstr "Analoga kontroller"
+
+msgctxt "#30114"
+msgid "Digital Steer Speed (Restart)"
+msgstr "Digital styrhastighet (omstart)"
+
+msgctxt "#30115"
+msgid "Digital Pedal Speed (Restart)"
+msgstr "Digital pedalhastighet (omstart)"
+
+msgctxt "#30116"
+msgid "Haptic Feedback Strength"
+msgstr "Styrka för haptisk återkoppling"
+
+msgctxt "#30117"
+msgid "Use Japanese Tracks (Restart)"
+msgstr "Använd japanska spår (omstart)"
+
+msgctxt "#30118"
+msgid "Freeplay Mode"
+msgstr "Freeplay-läge"
+
+msgctxt "#30119"
+msgid "Force AI to Play"
+msgstr "Tvinga AI att spela"
+
+msgctxt "#30120"
+msgid "Grippy Tyres"
+msgstr "Greppvänliga däck"
+
+msgctxt "#30121"
+msgid "Offroad Tyres"
+msgstr "Terrängdäck"
+
+msgctxt "#30122"
+msgid "Strong Bumper"
+msgstr "Stark stötfångare"
+
+msgctxt "#30123"
+msgid "Faster Car"
+msgstr "Snabbare bil"
+
+msgctxt "#30124"
+msgid "Car Color"
+msgstr "Bilfärg"
+
+msgctxt "#30125"
+msgid "Time Limit (Restart)"
+msgstr "Tidsgräns (omstart)"
+
+msgctxt "#30126"
+msgid "Traffic Difficulty (Restart)"
+msgstr "Trafiksvårighet (omstart)"
+
+msgctxt "#30127"
+msgid "Extra Level Objects (Restart)"
+msgstr "Extra objekt i nivåer (omstart)"
+
+msgctxt "#30128"
+msgid "Use Prototype Stage 1 (Restart)"
+msgstr "Använd prototyp steg 1 (omstart)"
+
+msgctxt "#30129"
+msgid "New Attract Mode (Restart)"
+msgstr "Nytt demonstrationsläge (omstart)"
+
+msgctxt "#30130"
+msgid "Randomize Traffic Patterns (Restart)"
+msgstr "Slumpmässiga trafikmönster (omstart)"
+
+msgctxt "#30131"
+msgid "Fix Game Bugs (Restart)"
+msgstr "Åtgärda spelbuggar (omstart)"
+
+msgctxt "#30132"
+msgid "Fix Timing Bugs (Restart)"
+msgstr "Åtgärda timingfel (omstart)"
+
+msgctxt "#30133"
+msgid "Time Trial Laps (Restart)"
+msgstr "Träna på tidskörning (omstart)"
+
+msgctxt "#30134"
+msgid "Time Trial Traffic Level (Restart)"
+msgstr "Trafiknivå i tidskörning (omstart)"
+
+msgctxt "#30135"
+msgid "Continuous Mode Traffic Level (Restart)"
+msgstr "Trafiknivå i kontinuerligt läge (omstart)"
+
+msgctxt "#30136"
+msgid "Display Debug Info (Restart)"
+msgstr "Visa felsökningsinformation (omstart)"
+
+#~ msgctxt "#30001"
+#~ msgid "Menu > Show at Start"
+#~ msgstr "Meny > Visa vid start"
+
+#~ msgctxt "#30002"
+#~ msgid "Menu > Road Scroll Speed"
+#~ msgstr "Meny > Rullningshastighet för väg"
+
+#~ msgctxt "#30003"
+#~ msgid "Video > Frame Rate"
+#~ msgstr "Video > Bildfrekvens"
+
+#~ msgctxt "#30004"
+#~ msgid "Video > Widescreen Mode"
+#~ msgstr "Video > Bredbildsläge"
+
+#~ msgctxt "#30005"
+#~ msgid "Video > High-Resolution Mode"
+#~ msgstr "Video > Högupplöst läge"
+
+#~ msgctxt "#30006"
+#~ msgid "Audio > Enable"
+#~ msgstr "Ljud > Aktivera"
+
+#~ msgctxt "#30007"
+#~ msgid "Audio > Advertise Sound (Restart)"
+#~ msgstr "Ljud > Annonsera ljud (omstart)"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio > Preview Music (Restart)"
+#~ msgstr "Ljud > Förhandsmusik (omstart)"
+
+#~ msgctxt "#30009"
+#~ msgid "Audio > Fix Samples (Restart)"
+#~ msgstr "Ljud > Fixa samplingar (omstart)"
+
+#~ msgctxt "#30010"
+#~ msgid "Input > Gear Mode"
+#~ msgstr "Inmatning > Växelläge"
+
+#~ msgctxt "#30011"
+#~ msgid "Input > Analog Controls"
+#~ msgstr "Inmatning > Analoga kontroller"
+
+#~ msgctxt "#30012"
+#~ msgid "Input > Digital Steer Speed (Restart)"
+#~ msgstr "Inmatning > Digital styrhastighet (omstart)"
+
+#~ msgctxt "#30013"
+#~ msgid "Input > Digital Pedal Speed (Restart)"
+#~ msgstr "Inmatning > Digital pedalhastighet (omstart)"
+
+#~ msgctxt "#30014"
+#~ msgid "Input > Haptic Feedback Strength"
+#~ msgstr "Inmatning > Styrka för haptisk återkoppling"
+
+#~ msgctxt "#30015"
+#~ msgid "Engine > Use Japanese Tracks (Restart)"
+#~ msgstr "Motor > Använd japanska spår (omstart)"
+
+#~ msgctxt "#30016"
+#~ msgid "Engine > Freeplay Mode"
+#~ msgstr "Motor > Freeplay-läge"
+
+#~ msgctxt "#30017"
+#~ msgid "Engine > Force AI to Play"
+#~ msgstr "Motor > Tvinga AI att spela"
+
+#~ msgctxt "#30018"
+#~ msgid "Engine > Time Limit (Restart)"
+#~ msgstr "Motor > Tidsgräns (omstart)"
+
+#~ msgctxt "#30019"
+#~ msgid "Engine > Traffic Difficulty (Restart)"
+#~ msgstr "Motor > Trafiksvårighet (omstart)"
+
+#~ msgctxt "#30020"
+#~ msgid "Engine > Extra Level Objects (Restart)"
+#~ msgstr "Motor > Extra objekt i nivåer (omstart)"
+
+#~ msgctxt "#30021"
+#~ msgid "Engine > Use Prototype Stage 1 (Restart)"
+#~ msgstr "Motor > Använd prototyp steg 1 (omstart)"
+
+#~ msgctxt "#30022"
+#~ msgid "Engine > New Attract Mode (Restart)"
+#~ msgstr "Motor > Nytt demonstrationsläge (omstart)"
+
+#~ msgctxt "#30023"
+#~ msgid "Engine > Randomize Traffic Patterns (Restart)"
+#~ msgstr "Motor > Slumpmässiga trafikmönster (omstart)"
+
+#~ msgctxt "#30024"
+#~ msgid "Engine > Fix Game Bugs (Restart)"
+#~ msgstr "Motor > Åtgärda spelbuggar (omstart)"
+
+#~ msgctxt "#30025"
+#~ msgid "Engine > Fix Timing Bugs (Restart)"
+#~ msgstr "Motor > Åtgärda timingfel (omstart)"
+
+#~ msgctxt "#30026"
+#~ msgid "Engine > Time Trial Laps (Restart)"
+#~ msgstr "Motor > Träna på tidskörning (omstart)"
+
+#~ msgctxt "#30027"
+#~ msgid "Engine > Time Trial Traffic Level (Restart)"
+#~ msgstr "Motor > Trafiknivå i tidskörning (omstart)"
+
+#~ msgctxt "#30028"
+#~ msgid "Engine > Continuous Mode Traffic Level (Restart)"
+#~ msgstr "Motor > Trafiknivå i kontinuerligt läge (omstart)"
+
+#~ msgctxt "#30029"
+#~ msgid "Engine > Display Debug Info (Restart)"
+#~ msgstr "Motor > Visa felsökningsinformation (omstart)"
+
+#~ msgctxt "#30030"
+#~ msgid "Audio > Custom WAV Volume"
+#~ msgstr "Ljud > Volym för anpassade WAV-filer"
+
+#~ msgctxt "#30031"
+#~ msgid "Engine > Grippy Tyres"
+#~ msgstr "Motor > Greppvänliga däck"
+
+#~ msgctxt "#30032"
+#~ msgid "Engine > Offroad Tyres"
+#~ msgstr "Motor > Terrängdäck"
+
+#~ msgctxt "#30033"
+#~ msgid "Engine > Strong Bumper"
+#~ msgstr "Motor > Stark stötfångare"
+
+#~ msgctxt "#30034"
+#~ msgid "Engine > Faster Car"
+#~ msgstr "Motor > Snabbare bil"
+
+#~ msgctxt "#30035"
+#~ msgid "Engine > Car Color"
+#~ msgstr "Motor > Bilfärg"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

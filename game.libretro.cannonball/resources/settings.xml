@@ -3,7 +3,7 @@
 	<section id="game.libretro.cannonball">
 		<category id="menu" label="30036" help="30037">
 			<group id="1">
-				<setting id="cannonball_menu_enabled" type="string" label="30001" help="30038">
+				<setting id="cannonball_menu_enabled" type="string" label="30102" help="30038">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -14,7 +14,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_menu_road_scroll_speed" type="string" label="30002" help="30039">
+				<setting id="cannonball_menu_road_scroll_speed" type="string" label="30103" help="30039">
 					<level>0</level>
 					<default>50</default>
 					<constraints>
@@ -45,7 +45,7 @@
 		</category>
 		<category id="video" label="30040" help="30041">
 			<group id="1">
-				<setting id="cannonball_video_fps" type="string" label="30003" help="30042">
+				<setting id="cannonball_video_fps" type="string" label="30104" help="30042">
 					<level>0</level>
 					<default>Smooth (60)</default>
 					<constraints>
@@ -58,7 +58,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_video_widescreen" type="string" label="30004" help="30043">
+				<setting id="cannonball_video_widescreen" type="string" label="30105" help="30043">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -69,7 +69,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_video_hires" type="string" label="30005" help="30044">
+				<setting id="cannonball_video_hires" type="string" label="30106" help="30044">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -84,7 +84,7 @@
 		</category>
 		<category id="audio" label="30045" help="30046">
 			<group id="1">
-				<setting id="cannonball_sound_enable" type="string" label="30006" help="30047">
+				<setting id="cannonball_sound_enable" type="string" label="30107" help="30047">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -95,7 +95,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_sound_custom_wav_volume" type="string" label="30030" help="30048">
+				<setting id="cannonball_sound_custom_wav_volume" type="string" label="30108" help="30048">
 					<level>0</level>
 					<default>200</default>
 					<constraints>
@@ -125,7 +125,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_sound_advertise" type="string" label="30007" help="30070">
+				<setting id="cannonball_sound_advertise" type="string" label="30109" help="30070">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -136,7 +136,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_sound_preview" type="string" label="30008" help="30071">
+				<setting id="cannonball_sound_preview" type="string" label="30110" help="30071">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -147,7 +147,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_sound_fix_samples" type="string" label="30009" help="30072">
+				<setting id="cannonball_sound_fix_samples" type="string" label="30111" help="30072">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -162,7 +162,7 @@
 		</category>
 		<category id="input" label="30073" help="30074">
 			<group id="1">
-				<setting id="cannonball_gear" type="string" label="30010" help="30075">
+				<setting id="cannonball_gear" type="string" label="30112" help="30075">
 					<level>0</level>
 					<default>Manual</default>
 					<constraints>
@@ -175,7 +175,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_analog" type="string" label="30011" help="30076">
+				<setting id="cannonball_analog" type="string" label="30113" help="30076">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -186,7 +186,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_steer_speed" type="string" label="30012" help="30077">
+				<setting id="cannonball_steer_speed" type="string" label="30114" help="30077">
 					<level>0</level>
 					<default>3</default>
 					<constraints>
@@ -204,7 +204,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_pedal_speed" type="string" label="30013" help="30078">
+				<setting id="cannonball_pedal_speed" type="string" label="30115" help="30078">
 					<level>0</level>
 					<default>4</default>
 					<constraints>
@@ -222,7 +222,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_haptic_strength" type="string" label="30014" help="30079">
+				<setting id="cannonball_haptic_strength" type="string" label="30116" help="30079">
 					<level>0</level>
 					<default>10</default>
 					<constraints>
@@ -246,7 +246,7 @@
 		</category>
 		<category id="engine" label="30080" help="30081">
 			<group id="1">
-				<setting id="cannonball_jap" type="string" label="30015" help="30082">
+				<setting id="cannonball_jap" type="string" label="30117" help="30082">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -257,7 +257,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_freeplay" type="string" label="30016" help="30083">
+				<setting id="cannonball_freeplay" type="string" label="30118" help="30083">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -268,7 +268,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_force_ai" type="string" label="30017" help="30084">
+				<setting id="cannonball_force_ai" type="string" label="30119" help="30084">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -279,7 +279,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_grippy_tyres" type="string" label="30031" help="30085">
+				<setting id="cannonball_grippy_tyres" type="string" label="30120" help="30085">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -290,7 +290,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_offroad_tyres" type="string" label="30032" help="30086">
+				<setting id="cannonball_offroad_tyres" type="string" label="30121" help="30086">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -301,7 +301,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_strong_bumper" type="string" label="30033" help="30087">
+				<setting id="cannonball_strong_bumper" type="string" label="30122" help="30087">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -312,7 +312,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_faster_car" type="string" label="30034" help="30088">
+				<setting id="cannonball_faster_car" type="string" label="30123" help="30088">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -323,7 +323,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_car_color" type="string" label="30035" help="30089">
+				<setting id="cannonball_car_color" type="string" label="30124" help="30089">
 					<level>0</level>
 					<default>RED</default>
 					<constraints>
@@ -339,7 +339,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_dip_time" type="string" label="30018" help="30090">
+				<setting id="cannonball_dip_time" type="string" label="30125" help="30090">
 					<level>0</level>
 					<default>Easy (80s)</default>
 					<constraints>
@@ -353,7 +353,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_dip_traffic" type="string" label="30019" help="30091">
+				<setting id="cannonball_dip_traffic" type="string" label="30126" help="30091">
 					<level>0</level>
 					<default>Normal</default>
 					<constraints>
@@ -367,7 +367,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_level_objects" type="string" label="30020" help="30092">
+				<setting id="cannonball_level_objects" type="string" label="30127" help="30092">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -378,7 +378,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_prototype" type="string" label="30021" help="30093">
+				<setting id="cannonball_prototype" type="string" label="30128" help="30093">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -389,7 +389,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_new_attract" type="string" label="30022" help="30094">
+				<setting id="cannonball_new_attract" type="string" label="30129" help="30094">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -400,7 +400,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_randomgen" type="string" label="30023" help="30095">
+				<setting id="cannonball_randomgen" type="string" label="30130" help="30095">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -411,7 +411,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_fix_bugs" type="string" label="30024" help="30096">
+				<setting id="cannonball_fix_bugs" type="string" label="30131" help="30096">
 					<level>0</level>
 					<default>ON</default>
 					<constraints>
@@ -422,7 +422,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_fix_timer" type="string" label="30025" help="30097">
+				<setting id="cannonball_fix_timer" type="string" label="30132" help="30097">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
@@ -433,7 +433,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_ttrial_laps" type="string" label="30026" help="30098">
+				<setting id="cannonball_ttrial_laps" type="string" label="30133" help="30098">
 					<level>0</level>
 					<default>3</default>
 					<constraints>
@@ -447,7 +447,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_ttrial_traffic" type="string" label="30027" help="30099">
+				<setting id="cannonball_ttrial_traffic" type="string" label="30134" help="30099">
 					<level>0</level>
 					<default>3</default>
 					<constraints>
@@ -465,7 +465,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_cont_traffic" type="string" label="30028" help="30100">
+				<setting id="cannonball_cont_traffic" type="string" label="30135" help="30100">
 					<level>0</level>
 					<default>3</default>
 					<constraints>
@@ -483,7 +483,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cannonball_layout_debug" type="string" label="30029" help="30101">
+				<setting id="cannonball_layout_debug" type="string" label="30136" help="30101">
 					<level>0</level>
 					<default>OFF</default>
 					<constraints>
