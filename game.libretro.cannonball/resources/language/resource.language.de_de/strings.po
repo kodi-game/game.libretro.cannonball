@@ -289,6 +289,14 @@ msgctxt "#30101"
 msgid "Show debug information in the on-screen HUD: level position, height pattern, sprite pattern."
 msgstr ""
 
+msgctxt "#30102"
+msgid "Show Menu at Start"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Menu Road Scroll Speed"
+msgstr ""
+
 msgctxt "#30104"
 msgid "Frame Rate"
 msgstr "Framerate"
@@ -300,6 +308,14 @@ msgstr "Breitbildmodus"
 msgctxt "#30106"
 msgid "High-Resolution Mode"
 msgstr "Hochauflösungsmodus"
+
+msgctxt "#30107"
+msgid "Enable Audio"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Custom WAV Volume"
+msgstr ""
 
 msgctxt "#30109"
 msgid "Advertise Sound (Restart)"
@@ -344,6 +360,26 @@ msgstr "Freispielmodus"
 msgctxt "#30119"
 msgid "Force AI to Play"
 msgstr "KI zum Spielen zwingen"
+
+msgctxt "#30120"
+msgid "Grippy Tyres"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Offroad Tyres"
+msgstr ""
+
+msgctxt "#30122"
+msgid "Strong Bumper"
+msgstr ""
+
+msgctxt "#30123"
+msgid "Faster Car"
+msgstr ""
+
+msgctxt "#30124"
+msgid "Car Color"
+msgstr ""
 
 msgctxt "#30125"
 msgid "Time Limit (Restart)"
@@ -508,30 +544,6 @@ msgstr "Debug-Informationen anzeigen (Neustart erforderlich)"
 #~ msgctxt "#30029"
 #~ msgid "Engine > Display Debug Info (Restart)"
 #~ msgstr "Engine > Debug-Informationen anzeigen (Neustart erforderlich)"
-
-#~ msgctxt "#30030"
-#~ msgid "Audio > Custom WAV Volume"
-#~ msgstr ""
-
-#~ msgctxt "#30031"
-#~ msgid "Engine > Grippy Tyres"
-#~ msgstr ""
-
-#~ msgctxt "#30032"
-#~ msgid "Engine > Offroad Tyres"
-#~ msgstr ""
-
-#~ msgctxt "#30033"
-#~ msgid "Engine > Strong Bumper"
-#~ msgstr ""
-
-#~ msgctxt "#30034"
-#~ msgid "Engine > Faster Car"
-#~ msgstr ""
-
-#~ msgctxt "#30035"
-#~ msgid "Engine > Car Color"
-#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
